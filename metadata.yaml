@@ -15,5 +15,5 @@
 homepage: "https://gtmbuddy.ai/"
 documentation: "https://gtmbuddy.ai/"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: 1edbc16a9b8945fbcf10e97de75cc3a7919a8dba
     changeNotes: Initial Version
