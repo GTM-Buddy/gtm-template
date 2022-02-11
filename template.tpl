@@ -215,9 +215,6 @@ scenarios:
     // Call runCode to run the template's code.
     runCode(mockData);
 
-    // Verify that the tag finished successfully.
-    assertApi('gtmOnSuccess').wasCalled();
-
 
 ___NOTES___
 
